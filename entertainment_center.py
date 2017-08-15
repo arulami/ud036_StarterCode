@@ -7,7 +7,6 @@ toy_story = media.Movie("Toy Story",
                         "https://www.youtube.com/watch?v=nCqtQLmJTl0"
                         )
 
-print(toy_story.storyline)
 
 apocalypto = media.Movie("Apocalypto",
                          "A Mayans culture, epic center film",
