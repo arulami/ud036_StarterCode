@@ -9,9 +9,7 @@
    ```sh
    
    $ git clone https://github.com/arulami/ud036_StarterCode.git
-
    $ cd ud036_StarterCode
-   
    $ python entertainment_center.py
    
    ```
